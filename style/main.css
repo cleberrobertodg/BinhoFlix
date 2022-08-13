@@ -70,6 +70,7 @@ header nav a:hover{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+
 .botao{
     background-color: rgba(0,0,0,.50);
     border: none;
@@ -79,7 +80,9 @@ header nav a:hover{
     font-size: 12px;
     cursor: pointer;
     transition: .3s ease all;
+    
 }
+
 
 .botao:hover{
     background-color: white;
@@ -90,6 +93,10 @@ header nav a:hover{
 .botao i{
     margin-right: 8px;
 }
+
+
+
+
 
 .container{
     margin-left: 20px;
